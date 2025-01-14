@@ -5,7 +5,7 @@ var googleOauthClientId = "478810195063-c83gm38hf14o08gg4oqggql7pp9dqbdl.apps.go
 // scope: https://www.googleapis.com/auth/drive.readonly
 
 // Dropbox
-var dropboxAppKey = "2556z2wtdog5rop";
+var dropboxAppKey = "92l0dp1nkx6820o";
 
 // OneDrive
 var onedriveClientId = "31614988-7150-44ca-b17f-d18e3ea1d3af";
